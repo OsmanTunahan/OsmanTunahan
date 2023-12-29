@@ -1,4 +1,4 @@
-<h2> Hi, I'm OsmanTunahan!</h2>
+<h2> Hi, I'm Osman Tunahan!</h2>
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=OsmanTunahan&theme=vue&show_icons=true" width="380">
 <p><em>Security Researcher and Bugbounty Hunter <br>
   CTFer and Whitehat <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 

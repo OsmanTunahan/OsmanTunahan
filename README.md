@@ -4,7 +4,6 @@
   CTFer and Whitehat <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-![GitHub OsmanTunahan](https://komarev.com/ghpvc/?username=OsmanTunahan)
 [![GitHub OsmanTunahan](https://img.shields.io/github/followers/OsmanTunahan?label=follow%20github&style=flat-square)](https://github.com/OsmanTunahan)
 
 <br>

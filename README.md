@@ -5,6 +5,7 @@
 </em></p>
 
 ![](https://komarev.com/ghpvc/?username=OsmanTunahan&color=brightgreen)
+![](https://raw.githubusercontent.com/OsmanTunahan/OsmanTunahan/master/assets/thm_propic.png)
 
 <br>
 

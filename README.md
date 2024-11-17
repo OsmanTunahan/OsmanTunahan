@@ -5,6 +5,7 @@
 </em></p>
 
 ![](https://komarev.com/ghpvc/?username=OsmanTunahan&color=brightgreen)
+[![](https://wakatime.com/badge/user/f5b48ef8-5b77-47c2-b243-9dbd5fd567f0.svg)](https://wakatime.com/@f5b48ef8-5b77-47c2-b243-9dbd5fd567f0)
 
 <br>
 
